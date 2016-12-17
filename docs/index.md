@@ -1,7 +1,7 @@
 # About the project
 Jasonette is a different way of making native apps.
 
-Instead of programming an app on the device, you simply write a JSON file hosted on a server, and the Jasonette apps fetch and use it to build themselves on-demand whenever you open the app.
+Instead of programming an app on the device, you simply write a JSON file hosted on a server, and the Jasonette apps fetch and use it to build themselves on-demand whenever you open the app.,
 
 ---
 
